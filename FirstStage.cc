@@ -82,6 +82,7 @@ int main(int argc, char** argv)
     // --- end of user init ---
 
 
+    //test
 
     // -- output files
     //SM.DoseFile = "/home/hugos/g4/OPGI_FirstStage/OPGI_FS_output/testDose.dos";
